@@ -1,7 +1,8 @@
 # 🥇 Welcome! I'm Anton.
 
 ## Hello 
-Thanks for stopping by ! - This is where I showcase my work across IT and cybersecurity through projects, labs and investigations. My focus is on solving real problems, producing clear technical work and building capability that holds up in the real world.
+Thanks for stopping by!
+This is where I showcase my work across IT and cybersecurity through projects, labs and investigations. My focus is on solving real problems, producing clear technical work and building capability that holds up in the real world.
 
 
 ## ⛲Investigation Labs + Reports
