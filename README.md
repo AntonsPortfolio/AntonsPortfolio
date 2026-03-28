@@ -1,32 +1,23 @@
 # 🥇 Welcome! I'm Anton.
-#### My portfolio of labs and projects
+
+## Hello 
+Thanks for stopping by ! - This is where I showcase my work across IT and cybersecurity through projects, labs and investigations. My focus is on solving real problems, producing clear technical work and building capability that holds up in the real world.
 
 
+## ⛲Investigation Labs + Reports
 
-## Objective
-
-##### 💻 Cut the noise, provide outcomes 
-
-##### 🗺️ Certifications 
-
-
-
-
-
-
-
-## ⛲Investigation Labs
-
-| Name                                         | Associated Lab         |
-|-----------------------------------------------|----------------------------|
+| Name                                          | Associated Lab         |  Incident Report          |                    
+|-----------------------------------------------|----------------------------|----------------------------|
 | Investigate a trojanized game installer | <a href="https://github.com/0xNotna/Active-Directory-Lab">Maranao Lab</a>
 
-## 🧪 Intermediate Investigation Labs
+## 🧪 Project's 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|   this is a test                                                              |             Coming Soon            |
-|                                          TBA                                              |              TBA                   |
+| Name                                          | Associated Project         |  Documentation             |
+|-----------------------------------------------|----------------------------|----------------------------|
+|   AWS IAM Access                              |             Coming Soon            |
+|   Sentinel SOC Lab                            |              TBA                   |
+|   PFSense Firewall                            |              TBA                   |
+
 
 ## Tools
 
