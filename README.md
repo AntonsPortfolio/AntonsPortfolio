@@ -1,31 +1,24 @@
 # 🥇 Welcome! I'm Anton.
-
-## Hello 
+# [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
 Thanks for stopping by!
 This is where I showcase my work across IT and cybersecurity through projects, labs and investigations. My focus is on solving real problems, producing clear technical work and building capability that holds up in the real world.
 
-
-## ⛲Investigation Labs + Reports
-
-| Name                                          | Associated Lab         |  Incident Report          |                    
-|-----------------------------------------------|----------------------------|----------------------------|
-| Investigate a trojanized game installer | <a href="https://github.com/0xNotna/Active-Directory-Lab">Maranao Lab</a>
-
 ## 🧪 Project's 
-
 | Name                                          | Associated Project         |  Documentation             |
 |-----------------------------------------------|----------------------------|----------------------------|
 |   AWS IAM Access                              |             Coming Soon            |
 |   Sentinel SOC Lab                            |              TBA                   |
 |   PFSense Firewall                            |              TBA                   |
 
+## ⛲Investigation Labs + Reports
+| Name                                          | Associated Lab         |  Incident Report          |                    
+|-----------------------------------------------|----------------------------|----------------------------|
+| Investigate a trojanized game installer | <a href="https://github.com/0xNotna/Active-Directory-Lab">Maranao Lab</a>
 
-## Tools
+## Tool specialisations 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=OpenSSH&logoColor=white" />
-    <img src="https://img.shields.io/badge/RDP-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
@@ -58,6 +51,8 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 
 <!-- AZ-900 -->
 <img src="https://img.shields.io/badge/Microsoft%20AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+[![BTL1](https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-1E90FF?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/) 
 
 <img width="100" height="100" alt="5e698a09-9e8d-40a1-be56-bad2e5cf2ba6" src="https://github.com/user-attachments/assets/29c24edd-af5a-477c-ac55-2fa2b3ac9313" />
 
