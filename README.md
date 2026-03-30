@@ -1,12 +1,14 @@
 # 🥇 Welcome! I'm Anton.
-# [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
-Thanks for stopping by!
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
+--
+
 This is where I showcase my work across IT and cybersecurity through projects, labs and investigations. My focus is on solving real problems, producing clear technical work and building capability that holds up in the real world.
 
 ## 🧪 Project's 
-| Name                                          | Associated Project         |  Documentation             |
-|-----------------------------------------------|----------------------------|----------------------------|
-|   AWS Soc Lab                                 |             In Production                               |
+| Name                                          | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|   AWS Splunk Incident Response Lab            |  <a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Splunk Incident Response Lab<a>    |
 |   Sentinel SOC Lab                            |              TBA                                        |
 |   PFSense Firewall                            |              TBA                                        |
 
@@ -59,4 +61,4 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 ## Projects
 <a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
 
-<a href="https://github.com/0xNotna/Splunk-AD-Lab">Lima-Charlie EDR Lab<a>
+<a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Splunk Incident Response Lab<a>
