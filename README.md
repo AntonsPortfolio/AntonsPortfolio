@@ -6,7 +6,7 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 ## 🧪 Project's 
 | Name                                          | Associated Project         |  Documentation             |
 |-----------------------------------------------|----------------------------|----------------------------|
-|   AWS IAM Access                              |             Coming Soon            |
+|   AWS Soc Lab                                 |             In Production          |
 |   Sentinel SOC Lab                            |              TBA                   |
 |   PFSense Firewall                            |              TBA                   |
 
