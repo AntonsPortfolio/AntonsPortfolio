@@ -6,13 +6,13 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 ## 🧪 Project's 
 | Name                                          | Associated Project         |  Documentation             |
 |-----------------------------------------------|----------------------------|----------------------------|
-|   AWS Soc Lab                                 |             In Production          |
-|   Sentinel SOC Lab                            |              TBA                   |
-|   PFSense Firewall                            |              TBA                   |
+|   AWS Soc Lab                                 |             In Production                               |
+|   Sentinel SOC Lab                            |              TBA                                        |
+|   PFSense Firewall                            |              TBA                                        |
 
 ## ⛲Investigation Labs + Reports
-| Name                                          | Associated Lab         |  Incident Report          |                    
-|-----------------------------------------------|----------------------------|----------------------------|
+| Name                                          | Associated Lab             |                    
+|-----------------------------------------------|----------------------------|
 | Investigate a trojanized game installer | <a href="https://github.com/0xNotna/Active-Directory-Lab">Maranao Lab</a>
 
 ## Tool specialisations 
