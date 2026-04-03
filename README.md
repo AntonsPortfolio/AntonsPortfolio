@@ -6,15 +6,15 @@
 This is where I showcase my work across IT and cybersecurity through projects, labs and investigations. My focus is on solving real problems, producing clear technical work and building capability that holds up in the real world.
 
 ## 🧪 Foundational Project's 
-| Name                                          | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|   🔶 AWS Splunk Incident Response Lab            |  <a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Splunk Incident Response Lab<a>    |
+| Name                                          | Description                | Associated Project        |
+|-----------------------------------------------|----------------------------|---------------------------|
+|   🔶 AWS Splunk Incident Response Lab           | In development           |  <a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Splunk Incident Response Lab<a>    |
 |  🔶🔶 Sentinel SOC Lab                            |              TBA                                        |
 | 🔶🔶🔶  PFSense Firewall                            |              TBA                                        |
 
 ## ⛲Investigation Labs + Reports
-| Name                                          | Associated Lab             |                    
-|-----------------------------------------------|----------------------------|
+| Name                                          | Description                |         Associated Lab   |          
+|-----------------------------------------------|----------------------------|---------------------------|
 | 🔷Investigate a trojanized game installer | <a href="https://github.com/0xNotna/Active-Directory-Lab">Maranao Lab</a>
 |🔷🔷 Second                                   |Second                     |
 | 🔷🔷🔷Third                                  | Third                     |                            
