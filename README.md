@@ -8,7 +8,7 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 ## 🧪 Foundational Project's 
 | Name                                          | Description                | Associated Project        |
 |-----------------------------------------------|----------------------------|---------------------------|
-|   🔶 AWS Splunk Incident Response Lab           | In development           |  <a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Splunk Incident Response Lab<a>    |
+|   🔶 AWS Hybrid Detection and Alert Automation  | A private AWS EC2 detection lab using Splunk, Tines, and Slack. |  <a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Hybrid Detection and Alert Automation<a>    |
 |  🔶🔶 Sentinel SOC Lab                            |              TBA                                        |
 | 🔶🔶🔶  PFSense Firewall                            |              TBA                                        |
 
