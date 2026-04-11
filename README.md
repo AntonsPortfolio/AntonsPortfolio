@@ -3,14 +3,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
 --
 
-This is where I showcase my work across IT and cybersecurity through projects, labs and investigations. My focus is on solving real problems, producing clear technical work and building capability that holds up in the real world.
+This is where I showcase my work across IT and cybersecurity through projects, labs, and investigations. My focus is on clear technical work and building real-world capability.
 
 ## 🧪 Foundational Project's 
 | Name                                          | Description                | Associated Project        |
 |-----------------------------------------------|----------------------------|---------------------------|
 |   🔶 AWS Hybrid Detection and Alert Automation  | A private AWS EC2 detection lab using Splunk, Tines, and Slack. |  <a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Hybrid Detection and Alert Automation<a>    |
-|  🔶🔶 Sentinel SOC Lab                            |              TBA                                        |
-| 🔶🔶🔶  PFSense Firewall                            |              TBA                                        |
+|  🔶🔶 Sentinel SOC Lab                          | In Development     | In Development 
+| 🔶🔶🔶  PFSense Firewall                            |              TBA                                        | XXX
+
+---
 
 ## ⛲Investigation Labs + Reports
 | Name                                          | Description                |         Associated Lab   |          
