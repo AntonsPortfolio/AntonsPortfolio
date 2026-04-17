@@ -17,7 +17,7 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 ## ⛲Investigation Labs + Reports
 | Name                                          | Description                |         Associated Lab   |          
 |-----------------------------------------------|----------------------------|---------------------------|
-| 🔷Maranhao Lab | Investigating a trojanized game installer by analyzing browser history, logs, registry hives, and filesystem artifacts to map the full attack chain and extract IOCs. | <a href="https://github.com/0xNotna/Active-Directory-Lab">Maranao Lab</a>
+| 🔷StarkTech Incident - APT41 Investigation | Investigating a trojanized game installer by analyzing browser history, logs, registry hives, and filesystem artifacts to map the full attack chain and extract IOCs. | <a href="https://github.com/0xNotna/Active-Directory-Lab">StarkTech Incident - APT41 Investigation Lab</a>
 |🔷🔷 Second                                   |Second                     |
 | 🔷🔷🔷Third                                  | Third                     |                            
 
