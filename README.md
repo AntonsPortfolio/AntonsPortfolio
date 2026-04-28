@@ -26,25 +26,25 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 
 ### *Network*
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/c7d0e330-9176-4ed5-89d4-dc72dfd738f5" width="150" height="70" />
+  <img src="https://github.com/user-attachments/assets/c7d0e330-9176-4ed5-89d4-dc72dfd738f5" width="130" height="70" />
 </div>
 
 ### *Endpoint*
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/9302b6d3-5f46-4d4d-a3f9-91c7c05dc909" width="150" height="70" />
+  <img src="https://github.com/user-attachments/assets/9302b6d3-5f46-4d4d-a3f9-91c7c05dc909" width="130" height="70" />
 </div>
 
 ### *SIEM*
 <table border="0" style="border-collapse:collapse; width:100%;">
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f916eb36-9742-4abf-ab47-2c0fc823d739" width="150" height="70" />
+      <img src="https://github.com/user-attachments/assets/f916eb36-9742-4abf-ab47-2c0fc823d739" width="130" height="70" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/5e1d1bdf-b83c-43ce-85a6-313e540ee89a" width="120" height="70" />
+      <img src="https://github.com/user-attachments/assets/5e1d1bdf-b83c-43ce-85a6-313e540ee89a" width="130" height="70" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/29e52427-05d6-41ba-8162-a53b9475e067" width="150" height="70" />
+      <img src="https://github.com/user-attachments/assets/29e52427-05d6-41ba-8162-a53b9475e067" width="130" height="70" />
     </td>
   </tr>
 </table>
