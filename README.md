@@ -5,64 +5,77 @@
 
 This is where I showcase my work across IT and cybersecurity through projects, labs, and investigations. My focus is on clear technical work and building real-world capability.
 
-## 🧪 Foundational Project's 
+## 🧪 *Foundational Work*  
 | Name                                          | Description                | Associated Project        |
 |-----------------------------------------------|----------------------------|---------------------------|
 |   🔶 AWS Hybrid Detection and Alert Automation  | A private AWS EC2 detection lab using Splunk, Tines, and Slack. |  <a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Hybrid Detection and Alert Automation<a>    |
-|  🔶🔶 Sentinel SOC Lab                          | In Development     | In Development 
-| 🔶🔶🔶  PFSense Firewall                            |              TBA                                        | XXX
+|  🔶🔶 Sentinel SOC Detection/Investigation and Automation                        | In Development     | In Development 
+| 🔶🔶🔶  CrowdStrike EDR                            |              XXX                                       | XXX
 
 ---
 
-## ⛲Investigation Labs + Reports
+## ⛲*Investigations & Reports*
 | Name                                          | Description                |         Associated Lab   |          
 |-----------------------------------------------|----------------------------|---------------------------|
-| 🔷StarkTech Incident Investigation | Investigating a multi-stage intrusion | <a href="https://github.com/0xNotna/Active-Directory-Lab">StarkTech Incident - APT41 Investigation Lab</a>
-|🔷🔷 Second                                   |Second                     |
-| 🔷🔷🔷Third                                  | Third                     |                            
+| 🔷StarkTech Incident Investigation | Investigating a multi-stage intrusion | <a href="https://github.com/0xNotna/Active-Directory-Lab">StarkTech Incident - APT41 Investigation </a>
+|🔷🔷 In Progess                                  |In Progress                     |
+| 🔷🔷🔷 TBA                                  | TBA                   |                            
 
-## Tool specialisations 
+## *Tool specialisations* 
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
+
+### *Network*
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/c7d0e330-9176-4ed5-89d4-dc72dfd738f5" width="150" height="70" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sysmon-800080?style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-
+### *Endpoint*
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/9302b6d3-5f46-4d4d-a3f9-91c7c05dc909" width="150" height="70" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+### *SIEM*
+<table border="0" style="border-collapse:collapse; width:100%;">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f916eb36-9742-4abf-ab47-2c0fc823d739" width="150" height="70" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5e1d1bdf-b83c-43ce-85a6-313e540ee89a" width="120" height="70" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/29e52427-05d6-41ba-8162-a53b9475e067" width="150" height="70" />
+    </td>
+  </tr>
+</table>
 
-## Certifications
-<div>
-<!-- CompTIA A+ -->
-<img src="https://img.shields.io/badge/CompTIA_A%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white" />
 
-<!-- CompTIA Network+ -->
-<img src="https://img.shields.io/badge/CompTIA%20Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" />
+### *Certifications*
 
-<!-- CompTIA Security+ -->
-<img src="https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/128ae126-6db3-43f6-9738-9a11fba5d196" width="80" height="80" style="object-fit:contain;" />
+    </td>
 
-<!-- AZ-900 -->
-<img src="https://img.shields.io/badge/Microsoft%20AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<td align="center">
+      <img src="https://github.com/user-attachments/assets/29c24edd-af5a-477c-ac55-2fa2b3ac9313" width="80" height="80" style="object-fit:contain;" />
+    </td>
 
-[![BTL1](https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-1E90FF?style=for-the-badge&logo=security&logoColor=white)](https://www.securityblue.team/) 
+<td align="center">
+      <a href="https://cyberdefenders.org/">
+        <img src="https://cyberdefenders.org/static-assets/img/badges/ccdl1-badge-v2.svg" width="80" height="80" style="object-fit:contain;" />
+      </a>
+    </td>
 
-<img width="100" height="100" alt="5e698a09-9e8d-40a1-be56-bad2e5cf2ba6" src="https://github.com/user-attachments/assets/29c24edd-af5a-477c-ac55-2fa2b3ac9313" />
+<td align="center">
+      <img src="https://github.com/user-attachments/assets/7b13b98a-9547-4f06-a529-7033a747a365" width="80" height="80" style="object-fit:contain;" />
+    </td>
 
-## Projects
-<a href="https://github.com/0xNotna/Active-Directory-Lab">Active Directory</a>
+<td align="center">
+      <img src="https://github.com/user-attachments/assets/04bf87a9-7f8d-422a-814a-40c481f6a50c" width="80" height="80" style="object-fit:contain;" />
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Splunk Incident Response Lab<a>
+---
