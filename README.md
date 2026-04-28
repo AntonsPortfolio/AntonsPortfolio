@@ -18,8 +18,8 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 | Name                                          | Description                |         Associated Lab   |          
 |-----------------------------------------------|----------------------------|---------------------------|
 | 🔷StarkTech Incident Investigation | Investigating a multi-stage intrusion | <a href="https://github.com/0xNotna/Active-Directory-Lab">StarkTech Incident - APT41 Investigation </a>
-|🔷🔷 In Progess                                  |In Progress                     |
-| 🔷🔷🔷 TBA                                  | TBA                   |                            
+|🔷🔷 Rogue Azure                                 |Cloud Forensics. Reconstructing a multi-stage Azure attack timeline by analyzing Entra ID, Audit, and Storage Blob logs using KQL | In Progress  | 
+| 🔷🔷🔷 TBA                                  | TBA                   |    TBA      |                  
 
 ## *Tool specialisations* 
 
