@@ -1,6 +1,6 @@
 # 🥇 Welcome! I'm Anton.
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
 --
 
 This is where I showcase my work across IT and cybersecurity through projects, labs, and investigations. My focus is on clear technical work and building real-world capability.
@@ -9,8 +9,8 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 | Name                                          | Description                | Associated Project        |
 |-----------------------------------------------|----------------------------|---------------------------|
 |   🔶 AWS Hybrid Detection and Alert Automation  | A private AWS EC2 detection lab using Splunk, Tines, and Slack. |  <a href="https://github.com/0xNotna/Splunk-AD-Lab">AWS Hybrid Detection and Alert Automation<a>    |
-|  🔶🔶 Sentinel SOC Detection/Investigation and Automation                        | In Development     | In Development 
-| 🔶🔶🔶  CrowdStrike EDR                            |              XXX                                       | XXX
+|  🔶🔶 Sentinel SOC Detection/Investigation and Automation                        | ---    | In Progress 
+| 🔶🔶🔶  CrowdStrike                             |              ---                                       | ---
 
 ---
 
@@ -19,7 +19,7 @@ This is where I showcase my work across IT and cybersecurity through projects, l
 |-----------------------------------------------|----------------------------|---------------------------|
 | 🔷StarkTech Incident Investigation | Investigating a multi-stage intrusion | <a href="https://github.com/0xNotna/Active-Directory-Lab">StarkTech Incident - APT41 Investigation </a>
 |🔷🔷 Rogue Azure                                 |Cloud Forensics. Reconstructing a multi-stage Azure attack timeline by analyzing Entra ID, Audit, and Storage Blob logs using KQL | In Progress  | 
-| 🔷🔷🔷 TBA                                  | TBA                   |    TBA      |                  
+| 🔷🔷🔷 ---                                 | ---                |    ---    |                  
 
 ## *Tool specialisations* 
 
